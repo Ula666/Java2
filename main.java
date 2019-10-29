@@ -1,7 +1,6 @@
 /**
  * This class represents Main class.
  *
- * @author Rabia Nazir, Ula, Bradley.
  * 
  * @version 1
  */
