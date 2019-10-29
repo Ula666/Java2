@@ -2,7 +2,6 @@
 /**
  * This is a CataloueInterface class.
  *
- * @author Rabia Nazir, Ula, Bradley.
  * 
  * @version 1
  */
